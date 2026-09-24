@@ -22,3 +22,4 @@ git log
 Shows the history of commits.
 
 Task 4: Practicing local Git changes, commits, and pushes.
+
