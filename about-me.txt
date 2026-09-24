@@ -6,4 +6,4 @@ I am currently learning Git and GitHub as part of my DevOps course.
 
 I am currently learning how Git and GitHub can be used for version control and collaboration.
 
-:>
+This activity helps me understand how version control works.
