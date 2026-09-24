@@ -1,0 +1,22 @@
+Basic Git Commands
+
+git init
+Creates a new Git repository.
+
+git status
+Shows the current status of the repository.
+
+git add .
+Adds files to the staging area.
+
+git commit -m "message"
+Saves the changes with a message.
+
+git push
+Uploads changes to GitHub.
+
+git pull
+Gets the latest changes from GitHub.
+
+git log
+Shows the history of commits.
